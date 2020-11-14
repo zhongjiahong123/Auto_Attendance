@@ -86,7 +86,7 @@
 
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194102.png)
 
-![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194250.png)   
+![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194250.png)      
 
 ---
 
