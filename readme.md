@@ -55,7 +55,7 @@
 * USERNAME：你的中南大学学工号
 
 * PASSWORD：你的中南大学信息门户密码
-
+   
 * EAI_SESS：你的eai-sess cookie
 
 * UUKEY：你的UUkey cookie
