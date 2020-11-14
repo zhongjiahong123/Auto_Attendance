@@ -84,7 +84,7 @@
 
 更多关于时间的具体书写格式请参考[POSIX cron 语法](https://crontab.guru/)和[官方文档](https://docs.github.com/cn/actions/reference/events-that-trigger-workflows#)。
 
-![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194102.png)
+![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194102.png)     
 
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194250.png)      
 
@@ -92,7 +92,7 @@
 
 如本项目对您有所帮助，请帮忙点一个⭐star支持一下作者。如有任何问题欢迎提交issue与我联系。
 
-参考开源仓库：
+参考开源仓库：    
  
 1. [浙大nCov健康打卡定时自动脚本](https://github.com/Tishacy/ZJU-nCov-Hitcarder)
 2. [北京化工大学COVID-19自动填报脚本](https://github.com/W0n9/BUCT_nCoV_Report)  
