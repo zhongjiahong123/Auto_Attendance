@@ -31,7 +31,7 @@
 
 如果以上方法未能找到info页面和Cookie中的eai-sess和UUke，请尝试按下图方法搜索：
 
-1. 打开Network选项，勾选Preserve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000353.png)
+1. 打开Network选项，勾选Preserve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000353.png)  
 
 2. 点击放大镜处的搜索按钮![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000637.png)
 
